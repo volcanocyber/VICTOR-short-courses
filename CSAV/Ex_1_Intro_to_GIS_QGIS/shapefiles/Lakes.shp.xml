@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>Washington State Department of Natural Resources</origin>
+				<pubdate>03/01/2006</pubdate>
+				<title Sync="TRUE">wbhydro</title>
+				<geoform Sync="TRUE">vector digital data</geoform>
+				<onlink Sync="TRUE"></onlink>
+				<ftname Sync="TRUE">wbhydro</ftname></citeinfo>
+		</citation>
+		<descript>
+			<abstract>WCHYDRO and WBHYDRO together make up the most complete and up to date hydrography layer for the State of Washington. WBHYDRO contains waterbodies represented as polygonal features and shorelines represented as polygon perimeters. WBHYDRO includes features such as Puget Sound, lakes, wet areas, reservoirs, impoundments, glaciers, islands, and dams. WBHYDRO and WCHYDRO are edited daily and simultaneously; updates are posted weekly for internal DNR use and monthly for external use. Attribute interrelationships within WBHYDRO and spatial and attribute interrelationships between WBHYDRO and WCHYDRO are maintained. </abstract>
+			<purpose>The Watercourse (WCHYDRO) and Water Body/Water Shoreline (WBHYDRO) Hydrography layers support the implementation of the new Forest Practices Fish Habitat Water Type Map. The Forest Practices Water Typing system was developed and is maintained solely for the regulation of forest practices (WAC 222). The primary purpose of WCHYDRO and WBHYDRO is to aid in the application of timber harvest and other forest practices regulations and activities by the Washington State Department of Natural Resources (DNR). Other uses include cartography and analysis where hydrographic data is required.</purpose>
+			<langdata Sync="TRUE">en</langdata><supplinf>Within DNR, WCHYDRO and WBHYDRO are available through ROPA as Personal GeoDatabase Feature Classes and through /database/covers as ARC/INFO arc/node topology coverages. Externally, these data sets are available for download through the DNR website as ARC/INFO export files (.e00).
+</supplinf></descript>
+		<timeperd>
+			<timeinfo>
+				<sngdate>
+					<caldate>03/01/2005</caldate>
+				</sngdate>
+			</timeinfo>
+			<current>publication date</current>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>Weekly</update>
+		</status>
+		<spdom>
+			<bounding>
+				<eastbc Sync="TRUE">-116.708331</eastbc>
+				<northbc Sync="TRUE">49.042198</northbc>
+				<southbc Sync="TRUE">45.477175</southbc>
+				<westbc Sync="TRUE">-124.926093</westbc></bounding>
+			<lboundng><leftbc Sync="TRUE">576751.628593</leftbc><rightbc Sync="TRUE">2551363.940321</rightbc><bottombc Sync="TRUE">80429.642137</bottombc><topbc Sync="TRUE">1352987.327710</topbc></lboundng></spdom>
+		<keywords>
+			<theme>
+				<themekt>none</themekt>
+				<themekey>hydrography</themekey>
+				<themekey>water</themekey>
+				<themekey>stream</themekey>
+				<themekey>hydro</themekey>
+				<themekey>lake</themekey><themekey>water bodies</themekey><themekey>shoreline</themekey><themekey>puget sound</themekey><themekey>reservoir</themekey><themekey>impoundment</themekey><themekey>dam</themekey><themekey>glacier</themekey><themekey>watershed</themekey><themekey>drainage system</themekey><themekey>ocean</themekey><themekey>wet area</themekey><themekey>ditch</themekey><themekey>canal</themekey><themekey>inundation</themekey><themekey>hatchery</themekey><themekey>pond</themekey><themekey>island</themekey><themekey>snowfield</themekey><themekey>water body</themekey></theme>
+			<place>
+				<placekey>Washington State</placekey>
+				<placekey>Washington</placekey>
+				<placekey>Pacific Northwest</placekey></place>
+			<theme><themekey>inlandWaters</themekey><themekt>ISO 19115 Topic Category</themekt></theme></keywords>
+		<accconst>Access is not restricted. Although, the attributes identified by the "FP_" prefix (for example: FP_WTRTY_1975_CD,  FP_WTRTY_1975_DT, FP_WTRTY_CD, and FP_WTRTY_APPR_DT, and  FP_WTRTY_EDIT_DT) are intended for DNR Forest Practices regulatory purposes only.</accconst>
+		<useconst>See DNR Agency Data Licence Agreement at: http://www.dnr.wa.gov/dataandmaps/nfoaov12-09-03.html</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntperp>
+					<cntper>Mac McKay</cntper>
+					<cntorg>Washington State Department of Natural Resources, Forest Practices Division</cntorg>
+				</cntperp>
+				<cntvoice>360.902.1453</cntvoice>
+				<cntemail>mac.mckay@wadnr.gov</cntemail>
+				<cntaddr><address>PO Box 47012</address><addrtype>mailing and physical address</addrtype><address>1111 WASHINGTON STREET S.E.</address><city>OLYMPIA</city><state>WA</state><postal>98504-7012</postal><country>USA</country></cntaddr><cntfax>360.902.1428</cntfax><cntpos>Hydrography and Transportation Data Steward</cntpos><hours>8:30 - 5:30 M - F</hours></cntinfo>
+		</ptcontac>
+		<native Sync="TRUE">Microsoft Windows 2000 Version 5.2 (Build 3790) Service Pack 2; ESRI ArcCatalog 9.2.2.1350</native>
+		<natvform Sync="TRUE">ArcInfo Coverage</natvform></idinfo>
+	<spdoinfo>
+		<direct Sync="TRUE">Vector</direct>
+		<ptvctinf>
+			<sdtsterm Name="arc">
+				<sdtstype Sync="TRUE">Complete chain</sdtstype>
+				<ptvctcnt Sync="TRUE">93016</ptvctcnt>
+			</sdtsterm>
+			<esriterm Name="arc"><efeatyp Sync="TRUE">Simple</efeatyp><efeageom Sync="TRUE">Arc</efeageom><esritopo Sync="TRUE">FALSE</esritopo><efeacnt Sync="TRUE">93016</efeacnt><spindex Sync="TRUE">FALSE</spindex><linrefer Sync="TRUE">FALSE</linrefer></esriterm><esriterm Name="label"><efeatyp Sync="TRUE">Simple</efeatyp><efeageom Sync="TRUE">Label</efeageom><esritopo Sync="TRUE">FALSE</esritopo><efeacnt Sync="TRUE">71889</efeacnt><spindex Sync="TRUE">FALSE</spindex><linrefer Sync="TRUE">FALSE</linrefer></esriterm><sdtsterm Name="label"><sdtstype Sync="TRUE">Label point</sdtstype><ptvctcnt Sync="TRUE">71889</ptvctcnt></sdtsterm><esriterm Name="polygon"><efeatyp Sync="TRUE">Simple</efeatyp><efeageom Sync="TRUE">Polygon</efeageom><esritopo Sync="TRUE">TRUE</esritopo><efeacnt Sync="TRUE">71889</efeacnt><spindex Sync="TRUE">TRUE</spindex><linrefer Sync="TRUE">FALSE</linrefer></esriterm><sdtsterm Name="polygon"><sdtstype Sync="TRUE">GT-polygon composed of chains</sdtstype><ptvctcnt Sync="TRUE">71889</ptvctcnt></sdtsterm><esriterm Name="tic"><efeatyp Sync="TRUE">Simple</efeatyp><efeageom Sync="TRUE">Tic</efeageom><esritopo Sync="TRUE">FALSE</esritopo><efeacnt Sync="TRUE">1409953</efeacnt><spindex Sync="TRUE">FALSE</spindex><linrefer Sync="TRUE">FALSE</linrefer></esriterm><sdtsterm Name="tic"><sdtstype Sync="TRUE">Point</sdtstype><ptvctcnt Sync="TRUE">1409953</ptvctcnt></sdtsterm></ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<planar>
+				<planci>
+					<plance Sync="TRUE">coordinate pair</plance>
+					<coordrep>
+						<absres Sync="TRUE">0.000000</absres>
+						<ordres Sync="TRUE">0.000000</ordres>
+					</coordrep>
+					<plandu Sync="TRUE">survey feet</plandu>
+				</planci>
+				<mapproj><mapprojn Sync="TRUE">Lambert Conformal Conic</mapprojn><lambertc><stdparll Sync="TRUE">45.833333</stdparll><stdparll Sync="TRUE">47.333333</stdparll><longcm Sync="TRUE">-120.500000</longcm><latprjo Sync="TRUE">45.333333</latprjo><feast Sync="TRUE">1640416.666667</feast><fnorth Sync="TRUE">0.000000</fnorth></lambertc></mapproj></planar>
+			<geodetic>
+				<horizdn Sync="TRUE">D_North_American_1983_HARN</horizdn>
+				<ellips Sync="TRUE">Geodetic Reference System 80</ellips>
+				<semiaxis Sync="TRUE">6378137.000000</semiaxis>
+				<denflat Sync="TRUE">298.257222</denflat>
+			</geodetic>
+			<cordsysn><geogcsn Sync="TRUE">GCS_North_American_1983_HARN</geogcsn><projcsn Sync="TRUE">NAD_1983_HARN_StatePlane_Washington_South_FIPS_4602_Feet</projcsn></cordsysn></horizsys>
+		<vertdef>
+			<altsys>
+				<altres Sync="TRUE">1.000000</altres>
+				<altenc Sync="TRUE">Explicit elevation coordinate included with horizontal coordinates</altenc>
+			</altsys>
+		</vertdef>
+	</spref>
+	<eainfo>
+		<detailed Name="wbhydro.aat">
+			<attr>
+				<attrlabl>OBJECTID</attrlabl>
+				<attrdef>Internal feature number.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Sequential unique whole numbers that are automatically generated.</udom>
+				</attrdomv>
+				<attalias Sync="TRUE">FID</attalias><attrtype Sync="TRUE">OID</attrtype><attwidth Sync="TRUE">4</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale></attr>
+			<attr>
+				<attrlabl>FP_WTRTY_EDIT_DT</attrlabl>
+				<attrdef>Internal DNR date field used to capture when an individual DNR employee last edited the database record. Used in conjunction with the new habitat based water typing system. </attrdef>
+				<attalias Sync="TRUE">Shape</attalias><attrtype Sync="TRUE">Geometry</attrtype><attwidth Sync="TRUE">0</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdefs Sync="TRUE">ESRI</attrdefs><attrdomv><udom Sync="TRUE">Coordinates defining the features.</udom></attrdomv></attr>
+			<attr>
+				<attrlabl>SL_WTRTY_CD</attrlabl>
+				<attrdef>State Lands Water Type Code. These water type classifications are used  to support the DNR State Trust Lands HCP (Habitat Conservation Plan), effective September 1997.</attrdef><attrdomv><edom><edomv>1</edomv><edomvd>Shorelines of the state </edomvd></edom><edom><edomv>2</edomv><edomvd>Waters with high fish, wildlife, or human use</edomvd></edom><edom><edomv>3</edomv><edomvd>Waters with moderate fish, wildlife, or human use</edomvd></edom><edom><edomv>4</edomv><edomvd>Perennial nonfish habitat stream</edomvd></edom><edom><edomv>5</edomv><edomvd>Seasonal nonfish habitat stream</edomvd></edom><edom><edomv>9</edomv><edomvd>Unclassified water feature.</edomvd></edom><udom Sync="TRUE">Whole numbers that are automatically generated.</udom></attrdomv><attwidth Sync="TRUE">4</attwidth><atoutwid Sync="TRUE">5</atoutwid><attrtype Sync="TRUE">Binary</attrtype><attrdefs Sync="TRUE">ESRI</attrdefs></attr>
+			<attr>
+				<attrlabl>SL_WTRTY_EDIT_DT</attrlabl>
+				<attrdef>Internal DNR date field used to capture when an individual DNR employee made a tabular edit to the SL_WTRTY_CD as directed by a SL WTMF (DNR State Lands Water Type Modification Form used to support the DNR State Trust Lands HCP (Habitat Conservation Plan, September 1997)).</attrdef><attwidth Sync="TRUE">4</attwidth><atoutwid Sync="TRUE">5</atoutwid><attrtype Sync="TRUE">Binary</attrtype><attrdefs Sync="TRUE">ESRI</attrdefs><attrdomv><udom Sync="TRUE">Whole numbers that are automatically generated.</udom></attrdomv></attr>
+			<attr><attrlabl Sync="TRUE">LPOLY#</attrlabl><attalias Sync="TRUE">WB_LLID_NR</attalias><attrtype Sync="TRUE">Binary</attrtype><attwidth Sync="TRUE">4</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef>Water body longitude/latitude identifier number (LLID). All polygonal features are assigned an LLID. These include water bodies, islands, and dams, etc. The LLID has 13 characters, is based on the position of the polygon label point, and is created by concatenating the decimal degree values (to four places of precision) of the coordinates (minus the decimal points). LLID numbers are generally unique across WBHYDRO. A tiny precentage (0.06%) on July 11, 2006) of WB_LLID_NRs have a frequency greater than 1. These records represent features made up of more than one polygon. For example, a stream may be made up of several polygons connected by a single arc watercourse; the polygons will all have identical WB_LLID_NRs. There is no valid default value for this field and it must be populated.</attrdef><atoutwid Sync="TRUE">5</atoutwid><attrdefs Sync="TRUE">ESRI</attrdefs><attrdomv><udom Sync="TRUE">Whole numbers that are automatically generated.</udom></attrdomv></attr><enttyp>
+				<enttypl Sync="TRUE">wbhydro.aat</enttypl>
+				<enttypt Sync="TRUE">Feature Class</enttypt><enttypc Sync="TRUE">93016</enttypc></enttyp>
+			<attr><attrlabl Sync="TRUE">RPOLY#</attrlabl><attalias Sync="TRUE">WB_CART_FTR_CD</attalias><attrtype Sync="TRUE">Binary</attrtype><attwidth Sync="TRUE">4</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdomv><edom><edomv>100</edomv><edomvd>Alkali flat</edomvd></edom><edom><edomv>101</edomv><edomvd>Reservoir</edomvd></edom><edom><edomv>103</edomv><edomvd>Glacier or permanent snowfield</edomvd></edom><edom><edomv>105</edomv><edomvd>Area subject to inundation</edomvd></edom><edom><edomv>106</edomv><edomvd>Fish hatchery or farm</edomvd></edom><edom><edomv>107</edomv><edomvd>Industrial water impoundment</edomvd></edom><edom><edomv>109</edomv><edomvd>Sewage disposal pond or filtration bed</edomvd></edom><edom><edomv>110</edomv><edomvd>Tailings pond</edomvd></edom><edom><edomv>111</edomv><edomvd>Marsh, wet area, swamp, bog. To avoid any legal or jurisdictional implication of the use of the term "wetland", the term "wet area" is used in Hydro to describe lands including swamps, marshes, bogs, and similar areas such as wet meadows, river overflows, mudflats, and natural ponds. Used herein, a "wet area" is an area characterized by periodic inundation or saturation, hydric soils, and vegetation adapted for life in saturated soil conditions. Any number of tidal and nontidal areas characterized by saturated or nearly saturated soils most of the year that form an interface between terrestrial and aquatic environments; including freshwater marshes around ponds and channels, and brackish and salt marshes. Source: US Bureau of Reclamation.</edomvd></edom><edom><edomv>114</edomv><edomvd>Cranberry bog</edomvd></edom><edom><edomv>115</edomv><edomvd>Flats (tidal, mud, sand, gravel)</edomvd></edom><edom><edomv>116</edomv><edomvd>Bay, estuary, gulf, ocean or sea</edomvd></edom><edom><edomv>117</edomv><edomvd>Shoal</edomvd></edom><edom><edomv>400</edomv><edomvd>Rapids</edomvd></edom><edom><edomv>401</edomv><edomvd>Falls</edomvd></edom><edom><edomv>402</edomv><edomvd>Gravel pit or quarry filled with water</edomvd></edom><edom><edomv>406</edomv><edomvd>Dam or weir</edomvd></edom><edom><edomv>407</edomv><edomvd>Canal lock or sluice gate</edomvd></edom><edom><edomv>408</edomv><edomvd>Spillway</edomvd></edom><edom><edomv>410</edomv><edomvd>Exposed rock</edomvd></edom><edom><edomv>412</edomv><edomvd>Stream/river</edomvd></edom><edom><edomv>414</edomv><edomvd>Ditch/canal</edomvd></edom><edom><edomv>415</edomv><edomvd>Aqueduct</edomvd></edom><edom><edomv>417</edomv><edomvd>Penstock</edomvd></edom><edom><edomv>418</edomv><edomvd>Siphon</edomvd></edom><edom><edomv>419</edomv><edomvd>Channel in water area</edomvd></edom><edom><edomv>420</edomv><edomvd>Wash or ephemeral drain</edomvd></edom><edom><edomv>421</edomv><edomvd>Lake or pond</edomvd></edom><edom><edomv>422</edomv><edomvd>Reef</edomvd></edom><edom><edomv>423</edomv><edomvd>Sand or gravel in open water</edomvd></edom><edom><edomv>425</edomv><edomvd>Fish ladder</edomvd></edom><edom><edomv>466</edomv><edomvd>Pier, jetty, breakwater, dock, wharf or causeway</edomvd></edom><edom><edomv>902</edomv><edomvd>Island</edomvd></edom><edom><edomv>999</edomv><edomvd>Unknown/Unclassified</edomvd></edom><udom Sync="TRUE">Whole numbers that are automatically generated.</udom></attrdomv><attrdef>Water body cartographic feature code.  The code used to describe the cartographic feature type that the water body polygon represents.  This represents feature codes developed initially by the USGS and used on the DLG's.</attrdef><atoutwid Sync="TRUE">5</atoutwid><attrdefs Sync="TRUE">ESRI</attrdefs></attr><attr>
+				<attrlabl>SHAPE</attrlabl>
+				<attrdef>Feature geometry.</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Coordinates defining the features.</udom>
+				</attrdomv>
+				<attwidth Sync="TRUE">8</attwidth><atoutwid Sync="TRUE">18</atoutwid><attrtype Sync="TRUE">Float</attrtype><atnumdec Sync="TRUE">5</atnumdec></attr>
+			<attr><attrlabl Sync="TRUE">WBHYDRO#</attrlabl><attalias Sync="TRUE">WB_GNIS_NM</attalias><attrtype Sync="TRUE">Binary</attrtype><attwidth Sync="TRUE">4</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef>Water body GNIS (Geographic Names Information System) name.  The name of the water body as contained within the USGS GNIS database (http://geonames.usgs.gov/domestic/index.html). Not all features will have a GNIS name and number, but all features with GNIS names will have GNIS numbers and vice versa.</attrdef><atoutwid Sync="TRUE">5</atoutwid><attrdefs Sync="TRUE">ESRI</attrdefs><attrdomv><udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom></attrdomv></attr><attr>
+				<attrlabl>FP_WTRTY_CD</attrlabl>
+				<attrdef>DNR Forest Practices Fish Habitat Water Type Code. This code is based on the water types defined in WAC 222-16-030 and 222-16-031 and in the Shoreline Management Act. Field verified habitat information may override designations based on acreage. </attrdef>
+				<attrdomv>
+					<edom>
+						<edomv>S</edomv>
+						<edomvd>Designated Shoreline of the State as defined in WAC 222-16-030 (1).</edomvd>
+					</edom>
+					<edom>
+						<edomv>F</edomv>
+						<edomvd>Fish Habitat as defined in  WAC 222-16-030 (2).</edomvd>
+					</edom>
+					<edom>
+						<edomv>N</edomv>
+						<edomvd>Non-fish Habitat as defined in  WAC 222-16-030 (3) and (4).</edomvd>
+					</edom>
+					<edom>
+						<edomv>U</edomv>
+						<edomvd>Unknown, unmodeled mapped hydrographic feature.</edomvd>
+					</edom>
+					<edom>
+						<edomv>X</edomv>
+						<edomvd>Mapped feature having no water type designation (e.g. pipeline, wet area). </edomvd>
+					</edom>
+				</attrdomv>
+				<attwidth Sync="TRUE">4</attwidth><atoutwid Sync="TRUE">5</atoutwid><attrtype Sync="TRUE">Binary</attrtype><attrdefs Sync="TRUE">ESRI</attrdefs></attr>
+			<attr><attrlabl Sync="TRUE">WS_TYPE_CD</attrlabl><attalias Sync="TRUE">FP_WTRTY_APPR_DT</attalias><attrtype Sync="TRUE">Integer</attrtype><attwidth Sync="TRUE">2</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef>The date of approval by DNR Forest Practices staff of the Water Type Modification Form (WTMF) associated with the water body polygon. Used only in conjunction with the Forest Practices Fish Habitat Water Typing System. </attrdef><atoutwid Sync="TRUE">2</atoutwid></attr><attr><attrlabl Sync="TRUE">WS_DATUM_CD</attrlabl><attalias Sync="TRUE">WB_HYDR_FTR_CD</attalias><attrtype Sync="TRUE">Character</attrtype><attwidth Sync="TRUE">4</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdomv><edom><edomv>DC</edomv><edomvd>Ditches, canals, flumes</edomvd></edom><edom><edomv>ES</edomv><edomvd>Bays, estuaries, and oceans</edomvd></edom><edom><edomv>GL</edomv><edomvd>Glaciers or permanent snowfields</edomvd></edom><edom><edomv>IM</edomv><edomvd>Impoundments</edomvd></edom><edom><edomv>IS</edomv><edomvd>Islands</edomvd></edom><edom><edomv>IW</edomv><edomvd>Impounded wet areas</edomvd></edom><edom><edomv>LA</edomv><edomvd>Lakes and ponds</edomvd></edom><edom><edomv>PP</edomv><edomvd>Pipelines and water conveyance structures</edomvd></edom><edom><edomv>SC</edomv><edomvd>Side channels to rivers or stream</edomvd></edom><edom><edomv>ST</edomv><edomvd>Streams and rivers</edomvd></edom><edom><edomv>UN</edomv><edomvd>Unknown or unclassified</edomvd></edom><edom><edomv>WT</edomv><edomvd>Wet area. To avoid any legal or jurisdictional implication of the use of the term "wetland", the term "wet area" is used in Hydro to describe lands including swamps, marshes, bogs, and similar areas such as wet meadows, river overflows, mudflats, and natural ponds. Used herein, a "wet area" is an area characterized by periodic inundation or saturation, hydric soils, and vegetation adapted for life in saturated soil conditions. Any number of tidal and nontidal areas characterized by saturated or nearly saturated soils most of the year that form an interface between terrestrial and aquatic environments; including freshwater marshes around ponds and channels, and brackish and salt marshes. Source: US Bureau of Reclamation.</edomvd></edom></attrdomv><attrdef>Water body hydrographic feature code.  The code used to describe the hydrographic feature type that the water body polygon represents. </attrdef><atoutwid Sync="TRUE">4</atoutwid></attr><attr><attrlabl Sync="TRUE">WS_DFLT_SHORE_CD</attrlabl><attalias Sync="TRUE">WB_GNIS_NR</attalias><attrtype Sync="TRUE">Character</attrtype><attwidth Sync="TRUE">1</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef>Water body GNIS (Geographic Names Information System) number. The unique identifier number assigned to each named feature in the USGS GNIS database (http://geonames.usgs.gov/domestic/index.html). This number is used to insert and/or update water body names stored in the framework hydrography database. Not all features will have a GNIS name and number, but all features with GNIS names will have GNIS numbers and vice versa.</attrdef><atoutwid Sync="TRUE">1</atoutwid></attr><attr><attrlabl Sync="TRUE">FTR_MOD_CD</attrlabl><attalias Sync="TRUE">WB_PERIOD_CD</attalias><attrtype Sync="TRUE">Character</attrtype><attwidth Sync="TRUE">3</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdomv><edom><edomv>dry</edomv><edomvd>Dry land.  Indicates an island</edomvd></edom><edom><edomv>eph</edomv><edomvd>Ephemeral.  Water bodies that exist only as a result of storm precipitation</edomvd></edom><edom><edomv>int</edomv><edomvd>Intermittent or seasonal.  Water bodies that are dry during certain times of the year </edomvd></edom><edom><edomv>per</edomv><edomvd>Perennial.  Water bodies that essentially exist year round.</edomvd></edom><edom><edomv>unk</edomv><edomvd>Unknown or Unclassified.  Used when condition information is unknown or unclassified</edomvd></edom></attrdomv><attrdef>Water body periodicity code.  This is a classification of a water body in terms of the seasonal behavior of the feature or in terms of its surface flow. </attrdef><atoutwid Sync="TRUE">3</atoutwid></attr><attr><attrlabl Sync="TRUE">FTR_INPUT_CD</attrlabl><attalias Sync="TRUE">FTR_EDIT_DT</attalias><attrtype Sync="TRUE">Integer</attrtype><attwidth Sync="TRUE">2</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef>Feature edit date.  The date on which the spatial feature, or "geometry", was incorporated into or edited in the database.  This field is utilized to track changes in the database.  </attrdef><atoutwid Sync="TRUE">2</atoutwid></attr><attr><attrlabl Sync="TRUE">FTR_INTRP_CD</attrlabl><attalias Sync="TRUE">FP_WTRTY_DOC_NR</attalias><attrtype Sync="TRUE">Integer</attrtype><attwidth Sync="TRUE">2</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef>DNR Forest Practices Division tracking number used to uniquely identify Water Type Modification Form (WTMF) associated with the feature. WTMF are the means by which changes to the database are proposed. </attrdef><atoutwid Sync="TRUE">2</atoutwid></attr><attr><attrlabl Sync="TRUE">FTR_SRC_CD</attrlabl><attalias Sync="TRUE">FP_WTRTY_USER_ID</attalias><attrtype Sync="TRUE">Integer</attrtype><attwidth Sync="TRUE">3</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef>Internal DNR user identification code used to identify which individual DNR employee made a given edit in the database. Example: char490. </attrdef><atoutwid Sync="TRUE">3</atoutwid></attr><attr><attrlabl Sync="TRUE">FTR_SRC_DT</attrlabl><attalias Sync="TRUE">SHAPE.AREA</attalias><attrtype Sync="TRUE">Date</attrtype><attwidth Sync="TRUE">8</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><atoutwid Sync="TRUE">10</atoutwid></attr><attr><attrlabl Sync="TRUE">FTR_SRCSCALE_NR</attrlabl><attalias Sync="TRUE">SHAPE.LEN</attalias><attrtype Sync="TRUE">Integer</attrtype><attwidth Sync="TRUE">7</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><atoutwid Sync="TRUE">7</atoutwid></attr><attr><attrlabl Sync="TRUE">FTR_ACCUR_NR</attrlabl><attwidth Sync="TRUE">4</attwidth><atoutwid Sync="TRUE">12</atoutwid><attrtype Sync="TRUE">Float</attrtype><atnumdec Sync="TRUE">3</atnumdec></attr><attr><attrlabl Sync="TRUE">FTR_ORG_CD</attrlabl><attwidth Sync="TRUE">12</attwidth><atoutwid Sync="TRUE">12</atoutwid><attrtype Sync="TRUE">Character</attrtype></attr><attr><attrlabl Sync="TRUE">FTR_EDIT_DT</attrlabl><attwidth Sync="TRUE">8</attwidth><atoutwid Sync="TRUE">10</atoutwid><attrtype Sync="TRUE">Date</attrtype></attr><attr><attrlabl Sync="TRUE">DNR_OUTPUT_SCL</attrlabl><attwidth Sync="TRUE">7</attwidth><atoutwid Sync="TRUE">7</atoutwid><attrtype Sync="TRUE">Integer</attrtype></attr><attr><attrlabl Sync="TRUE">FP_WTRTY_1975_CD</attrlabl><attwidth Sync="TRUE">1</attwidth><atoutwid Sync="TRUE">1</atoutwid><attrtype Sync="TRUE">Integer</attrtype></attr><attr><attrlabl Sync="TRUE">FP_WTRTY_1975_DT</attrlabl><attwidth Sync="TRUE">8</attwidth><atoutwid Sync="TRUE">10</atoutwid><attrtype Sync="TRUE">Date</attrtype></attr></detailed>
+		<detailed Name="wbhydro.pat"><enttyp><enttypl Sync="TRUE">wbhydro.pat</enttypl><enttypt Sync="TRUE">Feature Class</enttypt><enttypc Sync="TRUE">71889</enttypc></enttyp><attr><attrlabl Sync="TRUE">FID</attrlabl><attalias Sync="TRUE">FID</attalias><attrtype Sync="TRUE">OID</attrtype><attwidth Sync="TRUE">4</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef Sync="TRUE">Internal feature number.</attrdef><attrdefs Sync="TRUE">ESRI</attrdefs><attrdomv><udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom></attrdomv></attr><attr><attrlabl Sync="TRUE">Shape</attrlabl><attalias Sync="TRUE">Shape</attalias><attrtype Sync="TRUE">Geometry</attrtype><attwidth Sync="TRUE">0</attwidth><atprecis Sync="TRUE">0</atprecis><attscale Sync="TRUE">0</attscale><attrdef Sync="TRUE">Feature geometry.</attrdef><attrdefs Sync="TRUE">ESRI</attrdefs><attrdomv><udom Sync="TRUE">Coordinates defining the features.</udom></attrdomv></attr><attr><attrlabl Sync="TRUE">AREA</attrlabl><attwidth Sync="TRUE">8</attwidth><atoutwid Sync="TRUE">18</atoutwid><attrtype Sync="TRUE">Float</attrtype><atnumdec Sync="TRUE">5</atnumdec><attrdef Sync="TRUE">Area of feature in internal units squared.</attrdef><attrdefs Sync="TRUE">ESRI</attrdefs><attrdomv><udom Sync="TRUE">Positive real numbers that are automatically generated.</udom></attrdomv></attr><attr><attrlabl Sync="TRUE">PERIMETER</attrlabl><attwidth Sync="TRUE">8</attwidth><atoutwid Sync="TRUE">18</atoutwid><attrtype Sync="TRUE">Float</attrtype><atnumdec Sync="TRUE">5</atnumdec><attrdef Sync="TRUE">Perimeter of feature in internal units.</attrdef><attrdefs Sync="TRUE">ESRI</attrdefs><attrdomv><udom Sync="TRUE">Positive real numbers that are automatically generated.</udom></attrdomv></attr><attr><attrlabl Sync="TRUE">WBHYDRO#</attrlabl><attwidth Sync="TRUE">4</attwidth><atoutwid Sync="TRUE">5</atoutwid><attrtype Sync="TRUE">Binary</attrtype><attrdef Sync="TRUE">Internal feature number.</attrdef><attrdefs Sync="TRUE">ESRI</attrdefs><attrdomv><udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom></attrdomv></attr><attr><attrlabl Sync="TRUE">WBHYDRO-ID</attrlabl><attwidth Sync="TRUE">4</attwidth><atoutwid Sync="TRUE">5</atoutwid><attrtype Sync="TRUE">Binary</attrtype><attrdef Sync="TRUE">User-defined feature number.</attrdef><attrdefs Sync="TRUE">ESRI</attrdefs></attr><attr><attrlabl Sync="TRUE">WB_LLID_NR</attrlabl><attwidth Sync="TRUE">13</attwidth><atoutwid Sync="TRUE">13</atoutwid><attrtype Sync="TRUE">Character</attrtype></attr><attr><attrlabl Sync="TRUE">WB_HYDR_FTR_CD</attrlabl><attwidth Sync="TRUE">2</attwidth><atoutwid Sync="TRUE">2</atoutwid><attrtype Sync="TRUE">Character</attrtype></attr><attr><attrlabl Sync="TRUE">WB_CART_FTR_CD</attrlabl><attwidth Sync="TRUE">4</attwidth><atoutwid Sync="TRUE">4</atoutwid><attrtype Sync="TRUE">Integer</attrtype></attr><attr><attrlabl Sync="TRUE">WB_GNIS_NM</attrlabl><attwidth Sync="TRUE">50</attwidth><atoutwid Sync="TRUE">50</atoutwid><attrtype Sync="TRUE">Character</attrtype></attr><attr><attrlabl Sync="TRUE">WB_GNIS_NR</attrlabl><attwidth Sync="TRUE">8</attwidth><atoutwid Sync="TRUE">8</atoutwid><attrtype Sync="TRUE">Integer</attrtype></attr><attr><attrlabl Sync="TRUE">WB_PERIOD_CD</attrlabl><attwidth Sync="TRUE">3</attwidth><atoutwid Sync="TRUE">3</atoutwid><attrtype Sync="TRUE">Character</attrtype></attr><attr><attrlabl Sync="TRUE">FTR_EDIT_DT</attrlabl><attwidth Sync="TRUE">8</attwidth><atoutwid Sync="TRUE">10</atoutwid><attrtype Sync="TRUE">Date</attrtype></attr><attr><attrlabl Sync="TRUE">FP_WTRTY_CD</attrlabl><attwidth Sync="TRUE">1</attwidth><atoutwid Sync="TRUE">1</atoutwid><attrtype Sync="TRUE">Character</attrtype></attr><attr><attrlabl Sync="TRUE">FP_WTRTY_DOC_NR</attrlabl><attwidth Sync="TRUE">6</attwidth><atoutwid Sync="TRUE">6</atoutwid><attrtype Sync="TRUE">Character</attrtype></attr><attr><attrlabl Sync="TRUE">FP_WTRTY_APPR_DT</attrlabl><attwidth Sync="TRUE">8</attwidth><atoutwid Sync="TRUE">10</atoutwid><attrtype Sync="TRUE">Date</attrtype></attr><attr><attrlabl Sync="TRUE">FP_WTRTY_USER_ID</attrlabl><attwidth Sync="TRUE">8</attwidth><atoutwid Sync="TRUE">8</atoutwid><attrtype Sync="TRUE">Character</attrtype></attr><attr><attrlabl Sync="TRUE">FP_WTRTY_EDIT_DT</attrlabl><attwidth Sync="TRUE">8</attwidth><atoutwid Sync="TRUE">10</atoutwid><attrtype Sync="TRUE">Date</attrtype></attr><attr><attrlabl Sync="TRUE">SL_WTRTY_CD</attrlabl><attwidth Sync="TRUE">1</attwidth><atoutwid Sync="TRUE">1</atoutwid><attrtype Sync="TRUE">Integer</attrtype></attr><attr><attrlabl Sync="TRUE">SL_WTRTY_EDIT_DT</attrlabl><attwidth Sync="TRUE">8</attwidth><atoutwid Sync="TRUE">10</atoutwid><attrtype Sync="TRUE">Date</attrtype></attr><attr><attrlabl Sync="TRUE">DNR_OUTPUT_SCL</attrlabl><attwidth Sync="TRUE">7</attwidth><atoutwid Sync="TRUE">7</atoutwid><attrtype Sync="TRUE">Integer</attrtype></attr></detailed></eainfo>
+	<distinfo>
+		<resdesc>Within DNR, WCHYDRO and WBHYDRO are available through ROPA as Personal GeoDatabase Feature Classes and through /database/covers as ARC/INFO arc/node topology coverages.
+
+Externally, these data sets are available for download through the DNR website as ARC/INFO export files (.e00), zipped (entire state: approx. 340Mb, or by county - from 2 to 29 Mb). See http://www3.wadnr.gov/dnrapp6/dataweb/dmmatrix.html#Hydrography.
+</resdesc><distliab>This digital data and metadata, (hereinafter collectively referred to as the "information"), are provided on an "AS IS", "AS AVAILABLE" and "WITH ALL FAULTS" basis. Neither Department of Natural Resources nor any of its officials and employees makes any warranty of any kind for this information, express or implied, including but not limited to any warranties of merchantability or fitness for a particular purpose, nor shall the distribution of this information constitute any warranty.
+
+The information is collected from various sources and will change over time without notice. DNR and its officials and employees assume no responsibility or legal liability for the accuracy, completeness, reliability, timeliness, or usefulness of any of the information provided nor do they represent that the use of any of the information will not infringe privately owned rights.
+
+The information is not intended to constitute advice nor is it to be used as a substitute for specific advice from a licensed professional. You should not act (or refrain from acting) based upon the information without independently verifying the information and, as necessary, obtaining professional advice regarding your particular facts and circumstances.
+
+References to any specific commercial product, process, and service by trade name, trademark, or manufacturer do not constitute or imply endorsement, recommendation, or favoring by DNR and its officials and employees.
+
+See agency license argeement for more information at: http://www.dnr.wa.gov/dataandmaps/nfoaov12-09-03.html.</distliab><techpreq>ARC/INFO export files (.e00) may be imported into Workstation ARC/INFO as coverages. These may then be edited in Workstation ARC/INFO ArcEdit. If using ArcGIS, one may import the coverages as feature classes into a geodatabase or export the coverages as shapefiles so that they may be edited in ArcInfo ArcMap or ArcView ArcMap. </techpreq><stdorder><digform><digtinfo><transize Sync="TRUE">113.446</transize><dssize Sync="TRUE">113.446</dssize></digtinfo></digform></stdorder></distinfo>
+	<metainfo>
+		<metd Sync="TRUE">20080130</metd>
+		<metc>
+			<cntinfo>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<city>OLYMPIA</city>
+					<state>WA</state>
+					<postal>98504-7012</postal>
+					<address>PO BOX 47012</address><address>1111 WASHINGTON STREET S.E.</address><country>USA</country></cntaddr>
+				<cntvoice>360.902.1453</cntvoice>
+				<cntperp><cntper>Mac McKay</cntper><cntorg>Washington State Department of Natural Resources, Forest Practices Division</cntorg></cntperp><cntemail>mac.mckay@wadnr.gov</cntemail><cntfax>360.902.1428</cntfax><cntpos>Hydrography and Transportation Data Steward</cntpos><hours>8:30 - 5:30 M - F</hours></cntinfo>
+		</metc>
+		<metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+		<mettc Sync="TRUE">local time</mettc>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+		<langmeta Sync="TRUE">en</langmeta><metextns><onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink><metprof Sync="TRUE">ESRI Metadata Profile</metprof></metextns></metainfo>
+	<Esri><CreaDate>20110613</CreaDate><CreaTime>13230900</CreaTime><SyncOnce>FALSE</SyncOnce><SyncDate>20080130</SyncDate><SyncTime>13524200</SyncTime><ModDate>20080130</ModDate><ModTime>13524200</ModTime><ArcGISFormat>1.0</ArcGISFormat></Esri><dataqual><lineage><procstep><date Sync="TRUE">20050314</date><time Sync="TRUE">10103200</time><procdesc>Data for forested state, private, and some federal and tribal lands were compiled by DNR Photogrammetry unit from 1992 through 1994. Data for all other areas of the state were received in various formats from federal agencies and processed by DNR GIS Cartography unit from 1995 through 1996. Data received a major data model revision and conversion completed in May 2004. Data receives continuous updates through the Timber/Fish/Wildlife Agreement Water Type Modification Form review/concurrence process. Data deployed upon completion of new fish habitat based Water Type attribution (Western Washington, March 1, 2005; Eastern Washington, March 1, 2006).</procdesc></procstep><procstep><procdesc Sync="TRUE">Metadata imported.</procdesc><srcused Sync="TRUE">\\Snarf\itd\datadmin\metadata\ropa\ropa.wbhydro.xml</srcused><date Sync="TRUE">20060309</date><time Sync="TRUE">15213700</time></procstep><srcinfo><srcscale>24000</srcscale></srcinfo><procstep><procdesc Sync="TRUE">Metadata imported.</procdesc><srcused Sync="TRUE">J:\DSS\Data Administration\Metadata\temporary metadata\ropa_wbhydro.xml</srcused><date Sync="TRUE">20060829</date><time Sync="TRUE">08153000</time></procstep><procstep><procdesc Sync="TRUE">Dataset copied.</procdesc><srcused Sync="TRUE"></srcused><date Sync="TRUE">20090225</date><time Sync="TRUE">09205700</time></procstep></lineage><posacc><horizpa><horizpar>National Map Accuracy Standards of +/- 40 feet (12.19 meters). </horizpar></horizpa></posacc></dataqual><dataIdInfo><envirDesc Sync="TRUE">Microsoft Windows 2000 Version 5.2 (Build 3790) Service Pack 2; ESRI ArcCatalog 9.2.2.1350</envirDesc><dataLang><languageCode Sync="TRUE" value="en"></languageCode></dataLang><idCitation><resTitle Sync="TRUE">wbhydro</resTitle><presForm><PresFormCd Sync="TRUE" value="005"></PresFormCd></presForm></idCitation><spatRpType><SpatRepTypCd Sync="TRUE" value="001"></SpatRepTypCd></spatRpType><dataExt><geoEle><GeoBndBox esriExtentType="native"><westBL Sync="TRUE">576751.628593</westBL><eastBL Sync="TRUE">2551363.940321</eastBL><northBL Sync="TRUE">1352987.32771</northBL><southBL Sync="TRUE">80429.642137</southBL><exTypeCode Sync="TRUE">1</exTypeCode></GeoBndBox></geoEle></dataExt><geoBox esriExtentType="decdegrees"><westBL Sync="TRUE">-124.926093</westBL><eastBL Sync="TRUE">-116.708331</eastBL><northBL Sync="TRUE">49.042198</northBL><southBL Sync="TRUE">45.477175</southBL><exTypeCode Sync="TRUE">1</exTypeCode></geoBox></dataIdInfo><mdLang><languageCode Sync="TRUE" value="en"></languageCode></mdLang><mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName><mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer><mdChar><CharSetCd Sync="TRUE" value="004"></CharSetCd></mdChar><mdHrLv><ScopeCd Sync="TRUE" value="005"></ScopeCd></mdHrLv><mdHrLvName Sync="TRUE">dataset</mdHrLvName><distInfo><distributor><distorTran><onLineSrc><orDesc Sync="TRUE">002</orDesc><linkage Sync="TRUE">file://</linkage><protocol Sync="TRUE">Local Area Network</protocol></onLineSrc><transSize Sync="TRUE">113.446</transSize></distorTran><distorFormat><formatName Sync="TRUE">ArcInfo Coverage</formatName></distorFormat></distributor></distInfo><refSysInfo><RefSystem><refSysID><identCode Sync="TRUE">NAD_1983_HARN_StatePlane_Washington_South_FIPS_4602_Feet</identCode></refSysID></RefSystem></refSysInfo><spatRepInfo><VectSpatRep><topLvl><TopoLevCd Sync="TRUE" value="004"></TopoLevCd></topLvl><geometObjs Name="arc"><geoObjTyp><GeoObjTypCd Sync="TRUE" value="003"></GeoObjTypCd></geoObjTyp><geoObjCnt Sync="TRUE">93016</geoObjCnt></geometObjs><geometObjs Name="label"><geoObjTyp><GeoObjTypCd Sync="TRUE" value="004"></GeoObjTypCd></geoObjTyp><geoObjCnt Sync="TRUE">71889</geoObjCnt></geometObjs><geometObjs Name="polygon"><geoObjTyp><GeoObjTypCd Sync="TRUE" value="002"></GeoObjTypCd></geoObjTyp><geoObjCnt Sync="TRUE">71889</geoObjCnt></geometObjs><geometObjs Name="tic"><geoObjTyp><GeoObjTypCd Sync="TRUE" value="004"></GeoObjTypCd></geoObjTyp><geoObjCnt Sync="TRUE">1409953</geoObjCnt></geometObjs></VectSpatRep></spatRepInfo><mdDateSt Sync="TRUE">20080130</mdDateSt></metadata>

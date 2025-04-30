@@ -1,0 +1,12 @@
+isce3
+folium
+mintpy
+opera-utils>=0.1.1
+pydantic>=2.1
+pymp-pypi>=0.4.5
+rich>=12.0
+ruamel.yaml>=0.15
+threadpoolctl>=3.0
+typing_extensions>=3.10
+watermark
+xarray-datatree
